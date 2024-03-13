@@ -1,0 +1,56 @@
+*{
+    font-family: verdana;
+    margin: 0;
+  }
+  
+  body{
+    background: #eee;
+    color: #333;
+  }
+  
+  .wrapper{
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+ 
+  .nav {
+    background: gainsboro;
+    text-align: center;
+  }
+
+  #blocks {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: white;
+  }
+
+  #blocks h2.title {
+    float: left;
+    margin: 5px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  #blocks h2.date {
+    float: right;
+    margin: 5px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #eee;
+  }
+
+  .instaImagen {
+    width: 100%;
+  }
+
+  .instaComment p {
+    padding: 10px;
+  }
+
+  
+  
